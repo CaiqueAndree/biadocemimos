@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doce Encanto</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Doce Encanto</h1>
+    <p>Doces, mimos e kits com pelúcias e chocolates</p>
+  </header>
+
+  <main>
+    <section class="banner">
+      <h2>Presentes com carinho e sabor</h2>
+    </section>
+
+    <section class="produtos">
+      <h3>Doces Artesanais</h3>
+      <div class="card">Brigadeiros gourmet</div>
+      <div class="card">Brownies recheados</div>
+
+      <h3>Kits com Pelúcia e Chocolate</h3>
+      <div class="card">Pelúcia + Ferrero Rocher</div>
+      <div class="card">Coração de pelúcia + trufas</div>
+
+      <h3>Mimos & Cestas</h3>
+      <div class="card">Cesta romântica</div>
+      <div class="card">Mini box de carinho</div>
+    </section>
+
+    <section class="pedido">
+      <a href="https://wa.me/5599999999999" target="_blank" class="botao">Faça seu pedido pelo WhatsApp</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>Siga-nos: <a href="https://instagram.com/doceencanto">@doceencanto</a></p>
+    <p>Endereço: Rua do Carinho, 123 - Amorópolis</p>
+  </footer>
+</body>
+</html>
